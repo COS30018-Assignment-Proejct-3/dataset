@@ -1,0 +1,5 @@
+train: ../social-distancing/train/images
+val: ../social-distancing/valid/images
+
+nc: 1
+names: ['person']
