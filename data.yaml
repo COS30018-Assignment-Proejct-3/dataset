@@ -1,5 +1,5 @@
-train: ../dataset/train/images
-val: ../dataset/valid/images
+train: ../social-distancing/train/images
+val: ../social-distancing/valid/images
 
 nc: 1
 names: ['person']
